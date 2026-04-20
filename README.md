@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Resources/karvit_logo.png" alt="KarvIt logo" width="120" />
+<img src="Resources/KarvIt_Logo.png" alt="KarvIt logo" width="120" />
 
 # KarvIt | Digital Forensics
 
